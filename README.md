@@ -19,7 +19,7 @@ Payload Encryption/Obfuscation Techniques – Explanation of techniques used by 
 CTF Binaries – Real-world binaries from previous CTFs for practical learning.
 
 Zoom Recording
-Watch the recording here: Zoom Recording Link[https://us06web.zoom.us/rec/share/1e4BH0nsnGbopHDdUo1w8nWtyAvvl8nnBT5Bwk8sp2ns-ZJUmhvg0Ry3XrUUBxug.ddrWkkHFdl6MOZkY
+Watch the recording here: Zoom Recording Link: https://us06web.zoom.us/rec/share/1e4BH0nsnGbopHDdUo1w8nWtyAvvl8nnBT5Bwk8sp2ns-ZJUmhvg0Ry3XrUUBxug.ddrWkkHFdl6MOZkY
 
 Passcode: Y..ff$2B
 

@@ -1,4 +1,4 @@
-**Introduction to Windows Malware Analysis**
+1) **Introduction to Windows Malware Analysis**
 
 Presented at: OWASP Mumbai Online Meetup
 Date: 26th October 2024 - Virtual

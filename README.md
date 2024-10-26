@@ -3,7 +3,7 @@
 **Date:** 26th October 2024 - Virtual  
 
 ## Topic
-**Introduction to Malware Analysis**  
+**Introduction to Windows Malware Analysis**  
 This talk covered the following key areas:
 - **Windows architecture and internals** – Windows OS, internals, and architecture.
 - **PE (Portable Executable) Format** – A detailed look at the PE file format.

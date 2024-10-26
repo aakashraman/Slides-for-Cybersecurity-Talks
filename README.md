@@ -14,10 +14,11 @@ This talk covered the following key areas:
 	• Payload Encryption/Obfuscation Techniques – Explanation of techniques used by malware to hide payloads and evade detection.
 	• CTF Binaries – Real-world binaries from previous CTFs for practical learning.
 
-Files: The Files folder contains all the binaries used during the demonstration.
+**Files:** The Files folder contains all the binaries used during the demonstration.
 
-Zoom Recording:
+**Zoom Recording:**
 
 Watch the recording here: Zoom Recording [Link](https://us06web.zoom.us/rec/share/1e4BH0nsnGbopHDdUo1w8nWtyAvvl8nnBT5Bwk8sp2ns-ZJUmhvg0Ry3XrUUBxug.ddrWkkHFdl6MOZkY)
-Passcode: Y..ff$2B
+
+**Passcode:** Y..ff$2B
 
